@@ -153,15 +153,7 @@ connect();
 //     const name = prompt('Enter username: ');
 //     const email = prompt('Enter user Email: ');
 
-//     const newCustomer = new Customer({ name, email });
-//     newCustomer.save()
-//         .then(() => {
-//             console.log('Customer created successfully');
-//         })
-//         .catch((err) => {
-//             console.error('Error creating customer:', err);
-//         });
-// };
+
 
 // const displayMenu = () => {
 //     console.log('\nMenu:');
