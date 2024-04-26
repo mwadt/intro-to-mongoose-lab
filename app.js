@@ -111,7 +111,7 @@ const deleteCustomer = async () => {
                 
                 console.log('Goodbye!')
             default: 
-                console.log('Invalid Input.  Try again.')
+                
         }
         
         
